@@ -1,0 +1,4 @@
+quartz.enabled=true
+server.port=9080
+server.servlet.session.timeout=8640
+config.name=config-test3
